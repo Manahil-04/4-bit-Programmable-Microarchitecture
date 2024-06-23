@@ -65,12 +65,8 @@ The block diagram represents the entire project. The Program Counter controls th
 ### Program Counter
 The Program Counter keeps track of the instructions to be executed, using a 24-clock cycle per instruction.
 
-![Program Counter](path_to_program_counter_image)
-
 ### Instruction Memory
 Stores instructions with an 11-bit width, including addresses for inputs and operation codes.
-
-![Instruction Memory](path_to_instruction_memory_image)
 
 ### Data Memory
 Stores values of inputs and results of operations. It uses a RAM module with 4-bit data width and 4 address bit width.
