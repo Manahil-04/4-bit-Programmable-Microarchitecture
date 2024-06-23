@@ -1,6 +1,7 @@
 # 4-bit Programmable Microarchitecture using Logisim Evolution
 
-![CPU Image](4-bit CPU.png)
+![CPU Image](https://github.com/Manahil-04/4-bit-Programmable-Microarchitecture/blob/17f56d79cc923720a2bb7ba0dd1898ee17ce8f27/4-bit%20CPU.png)
+
 
 ## Project Overview
 
@@ -71,4 +72,4 @@ The project successfully integrates multiple components into a functional protot
 
 ## Contributors
 
-- Manahil Mushtaq, BSCS-2021-03
+- Manahil Mushtaq
