@@ -6,25 +6,6 @@
 
 This project implements a programmable microarchitecture using Logisim Evolution as part of the Digital Logic Design (DLD) course. The project aims to execute six basic operations, including three arithmetic and three logical operations. The components include a Program Counter, Instruction Memory, Data Memory, ALU, Register File, and a Control Unit (FSM and Counters).
 
-## Table of Contents
-1. [Abstract](#abstract)
-2. [Problem Statement](#problem-statement)
-3. [Design Methodology](#design-methodology)
-   - [Functional Requirements](#functional-requirements)
-   - [Approach](#approach)
-4. [Block Diagram](#block-diagram)
-5. [Circuit Components](#circuit-components)
-   - [Program Counter](#program-counter)
-   - [Instruction Memory](#instruction-memory)
-   - [Data Memory](#data-memory)
-   - [ALU](#alu)
-   - [Register File](#register-file)
-   - [Control Unit (FSM and Counters)](#control-unit)
-6. [Improvements](#improvements)
-7. [Conclusion](#conclusion)
-8. [Usage](#usage)
-9. [Contributors](#contributors)
-
 ## Abstract
 
 A programmable microarchitecture capable of performing a variety of operations has been designed and implemented. This project marks the completion of the DLD course and involves performing six basic operations: three arithmetic (Addition, Subtraction, Multiplication) and three logical (Greater than, Equal to, Lesser than). The report details the design of the instruction format and program counters which help in executing the programs sequentially at their desired times.
@@ -53,12 +34,6 @@ The goal is to implement a functional prototype of a programmable microarchitect
 - ALU performs arithmetic and logical operations.
 - Register File stores results of the operations.
 - FSM and Counters function as the Control Unit for executing instructions.
-
-## Block Diagram
-
-![Block Diagram](path_to_block_diagram_image)
-
-The block diagram represents the entire project. The Program Counter controls the Instruction Memory, determining when the next instruction should be executed. Instructions and data are stored in separate memories. The ALU performs operations and stores results in the Data Memory.
 
 ## Circuit Components
 
